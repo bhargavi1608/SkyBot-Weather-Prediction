@@ -40,8 +40,8 @@ Weather & Forecast Data
 Text-to-Speech + Dashboard Output
 Installation
 Clone the Repository
-git clone https://github.com/your-username/SkyBot-AI-Voice-Weather-Assistant.git
-cd SkyBot-AI-Voice-Weather-Assistant
+git clone https://github.com/bhargavi1608/SkyBot-Weather-Prediction.git
+cd SkyBot-Weather-Prediction
 Install Dependencies
 pip install flask flask-cors requests gtts pygame SpeechRecognition
 Running the Application
@@ -67,14 +67,9 @@ Weather in Hyderabad
 What's the temperature in Mumbai?
 Will it rain in Delhi today?
 Weather in Bangalore
-Screenshots
 
-Add screenshots of:
 
-Home Page
-Weather Dashboard
-Voice Interaction
-Rain Prediction Alerts
+
 Future Enhancements
 🤖 AI chatbot integration with LLMs
 📍 GPS-based weather detection
